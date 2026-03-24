@@ -1,6 +1,4 @@
 # Gradebook
-# Designs A Gradebook For Teachers
-# Analyzes scores for each student based on their individual assignments
 
 import tkinter as tk
 from tkinter import messagebox, END
