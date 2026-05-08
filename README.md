@@ -1,4 +1,4 @@
-# Gradebook GUI Application (Python, Tkinter, OOP)
+# Gradebook GUI Application 
 
 A fully‑featured gradebook application built in Python using Tkinter, designed as part of my journey toward becoming a software engineer.  
 This project demonstrates practical GUI development, object‑oriented programming, data modeling, and real‑world application structure.
